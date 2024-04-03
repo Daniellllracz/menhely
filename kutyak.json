@@ -1,0 +1,3554 @@
+[
+    {
+        "név": "Akina",
+        "fajta": "Hokkaïdo",
+        "életkor": "11",
+        "utolsóOrvosiEllenőrzés": "2017.08.03"
+    },
+    {
+        "név": "Akina",
+        "fajta": "Magyar agár",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.09.18"
+    },
+    {
+        "név": "Akina",
+        "fajta": "Moskovskaya Storozhevaya",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.09.06"
+    },
+    {
+        "név": "Akira",
+        "fajta": "Dachshund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.21"
+    },
+    {
+        "név": "Akira",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.01.29"
+    },
+    {
+        "név": "Alex",
+        "fajta": "Coban Köpegi",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Ali",
+        "fajta": "Griffon Bruxellois",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.09.10"
+    },
+    {
+        "név": "Amanda",
+        "fajta": "Chien de Saint-Hubert",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.12.20"
+    },
+    {
+        "név": "April",
+        "fajta": "English Shepherd",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.31"
+    },
+    {
+        "név": "April",
+        "fajta": "Somerset Harrier",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2018.01.16"
+    },
+    {
+        "név": "Asterix",
+        "fajta": "Dunker",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.05.19"
+    },
+    {
+        "név": "Asterix",
+        "fajta": "Magyar agár",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.11.30"
+    },
+    {
+        "név": "Asterix",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.07.07"
+    },
+    {
+        "név": "Audrey",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.08.06"
+    },
+    {
+        "név": "Audrey",
+        "fajta": "Bedlington Terrier",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2018.01.26"
+    },
+    {
+        "név": "Audrey",
+        "fajta": "Svensk Lapphund",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.09.08"
+    },
+    {
+        "név": "Babuka",
+        "fajta": "Cão Fila de São Miguel",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.04.06"
+    },
+    {
+        "név": "Babuka",
+        "fajta": "Hollandse Herdershond Korthaar",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.09"
+    },
+    {
+        "név": "Bajusz",
+        "fajta": "Shiba",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.10.22"
+    },
+    {
+        "név": "Bajusz",
+        "fajta": "Lakeland Terrier",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.11.12"
+    },
+    {
+        "név": "Bajusz",
+        "fajta": "Australian Kelpie",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.31"
+    },
+    {
+        "név": "Bamboo",
+        "fajta": "Boykin Spaniel",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.05.09"
+    },
+    {
+        "név": "Bamboo",
+        "fajta": "Levesque",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.06.09"
+    },
+    {
+        "név": "Bandita",
+        "fajta": "Lapinporokoira",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.09.04"
+    },
+    {
+        "név": "Bandita",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.02"
+    },
+    {
+        "név": "Bandita",
+        "fajta": "Bolognese",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.12.24"
+    },
+    {
+        "név": "Barnabás",
+        "fajta": "Labrador Retriever",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.12.15"
+    },
+    {
+        "név": "Barnabás",
+        "fajta": "Alaskan Malamute",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.03.16"
+    },
+    {
+        "név": "Barnabás",
+        "fajta": "Tosa",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.05.12"
+    },
+    {
+        "név": "Bartók",
+        "fajta": "Dansk-Svensk Gårdshund",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.11.10"
+    },
+    {
+        "név": "Bartók",
+        "fajta": "Zwergpinscher",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.25"
+    },
+    {
+        "név": "Bebe",
+        "fajta": "Cão da Serra da Estrela",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2018.01.31"
+    },
+    {
+        "név": "Benji",
+        "fajta": "Nederlandse Schapendoes",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.17"
+    },
+    {
+        "név": "Benni",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.08.21"
+    },
+    {
+        "név": "Benni",
+        "fajta": "Maltese",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.10.24"
+    },
+    {
+        "név": "Bento",
+        "fajta": "Berger de Brie",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.06.05"
+    },
+    {
+        "név": "Bento",
+        "fajta": "Basset d'Artois",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.11.08"
+    },
+    {
+        "név": "Berci",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.10.02"
+    },
+    {
+        "név": "Berci",
+        "fajta": "Shikoku",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.03"
+    },
+    {
+        "név": "Berci",
+        "fajta": "Basset Fauve de Bretagne",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.03.30"
+    },
+    {
+        "név": "Berci",
+        "fajta": "English Toy Terrier",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.10.30"
+    },
+    {
+        "név": "Berci",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.06.16"
+    },
+    {
+        "név": "Betyár",
+        "fajta": "Zwergschnauzer",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.09.20"
+    },
+    {
+        "név": "Bingó",
+        "fajta": "Dansk-Svensk Gårdshund",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.03.08"
+    },
+    {
+        "név": "Blackie",
+        "fajta": "Collie Smooth",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.11.13"
+    },
+    {
+        "név": "Blackie",
+        "fajta": "Berger de Brie",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.07.11"
+    },
+    {
+        "név": "Blackie",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.11.15"
+    },
+    {
+        "név": "Blackie",
+        "fajta": "Bluetick Coonhound",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.12.04"
+    },
+    {
+        "név": "Blackie",
+        "fajta": "Basset Fauve de Bretagne",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.02.10"
+    },
+    {
+        "név": "Blacky",
+        "fajta": "Rottweiler",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.12.20"
+    },
+    {
+        "név": "Blecky",
+        "fajta": "Malinois",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.14"
+    },
+    {
+        "név": "Blöki",
+        "fajta": "Deutscher Jagdterrier",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.12.23"
+    },
+    {
+        "név": "Bó",
+        "fajta": "Chien Français Blanc et Noir",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.24"
+    },
+    {
+        "név": "Bobby",
+        "fajta": "Cane da pastore Bergamasco",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.12.09"
+    },
+    {
+        "név": "Bobby",
+        "fajta": "Mastín español",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.02.28"
+    },
+    {
+        "név": "Bobó",
+        "fajta": "Irish Water Spaniel",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.03.19"
+    },
+    {
+        "név": "Bogi",
+        "fajta": "Staffordshire Bullterrier",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2018.02.12"
+    },
+    {
+        "név": "Bojti",
+        "fajta": "Moskovskaya Dog",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.05.05"
+    },
+    {
+        "név": "Bojti",
+        "fajta": "Perdiguero de Burgos",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.06.15"
+    },
+    {
+        "név": "Bonnei",
+        "fajta": "Bayerischer Gebirgsschweisshund",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.01.29"
+    },
+    {
+        "név": "Bono",
+        "fajta": "Shar Pei",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.03.29"
+    },
+    {
+        "név": "Bono",
+        "fajta": "Eesti Hagijas",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.02.11"
+    },
+    {
+        "név": "Bono",
+        "fajta": "Haldenstøver",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.07.21"
+    },
+    {
+        "név": "Bono",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.05.06"
+    },
+    {
+        "név": "Bono",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.02.15"
+    },
+    {
+        "név": "Bony",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2018.02.19"
+    },
+    {
+        "név": "Bony",
+        "fajta": "Tibetan Spaniel",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.01.25"
+    },
+    {
+        "név": "Boris",
+        "fajta": "Jämthund",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.24"
+    },
+    {
+        "név": "Börni",
+        "fajta": "Griffon d’arrêt à poil dur Korthals",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2018.02.14"
+    },
+    {
+        "név": "Börni",
+        "fajta": "Manchester Terrier",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.08.02"
+    },
+    {
+        "név": "Bosco",
+        "fajta": "Coban Köpegi",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.22"
+    },
+    {
+        "név": "Boti",
+        "fajta": "Beagle Harrier",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.05.02"
+    },
+    {
+        "név": "Boti",
+        "fajta": "Anglo-français de petite vénerie",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.02.05"
+    },
+    {
+        "név": "Boti",
+        "fajta": "Lagotto Romagnolo",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.07.29"
+    },
+    {
+        "név": "Boti",
+        "fajta": "Curly Coated Retriever",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.05"
+    },
+    {
+        "név": "Boti",
+        "fajta": "Deutscher Boxer",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.09.19"
+    },
+    {
+        "név": "Botond",
+        "fajta": "Schwyzer Laufhund",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.04.08"
+    },
+    {
+        "név": "Boxos",
+        "fajta": "Irish Water Spaniel",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.10.26"
+    },
+    {
+        "név": "Breien",
+        "fajta": "American Foxhound",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.05.20"
+    },
+    {
+        "név": "Breien",
+        "fajta": "Grand Griffon Vendéen",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.09.23"
+    },
+    {
+        "név": "Breien",
+        "fajta": "Grosser Münsterländer Vorstehhund",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.08.08"
+    },
+    {
+        "név": "Breien",
+        "fajta": "Deutsch Kurzhaar",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.06"
+    },
+    {
+        "név": "Breien",
+        "fajta": "Dalmatinac",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.02.20"
+    },
+    {
+        "név": "Bronzó",
+        "fajta": "Siberian Husky",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.10.31"
+    },
+    {
+        "név": "Brutus",
+        "fajta": "Chambray",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.06.23"
+    },
+    {
+        "név": "Brutus",
+        "fajta": "Black Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.06.27"
+    },
+    {
+        "név": "Buli",
+        "fajta": "Pumi",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.05.31"
+    },
+    {
+        "név": "Buli",
+        "fajta": "English Coonhound",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.09.28"
+    },
+    {
+        "név": "Buli",
+        "fajta": "Eurasian",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.11.05"
+    },
+    {
+        "név": "Carrie",
+        "fajta": "Lakeland Terrier",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.07.30"
+    },
+    {
+        "név": "Casper",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.01"
+    },
+    {
+        "név": "Casper",
+        "fajta": "Collie Rough",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.28"
+    },
+    {
+        "név": "Castor",
+        "fajta": "Mops – Pug – Carlin",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.10.12"
+    },
+    {
+        "név": "Castor",
+        "fajta": "Suomenlapinkoira",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2018.01.08"
+    },
+    {
+        "név": "Castor",
+        "fajta": "Pointer",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.11.16"
+    },
+    {
+        "név": "Castro",
+        "fajta": "Podenco Canario",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.04.23"
+    },
+    {
+        "név": "Castro",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.28"
+    },
+    {
+        "név": "Castro",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.04.02"
+    },
+    {
+        "név": "Chanel",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.02.28"
+    },
+    {
+        "név": "Chanel",
+        "fajta": "Spinone Italiano",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.06.12"
+    },
+    {
+        "név": "Charlie",
+        "fajta": "Français Blanc et Orange",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.09.23"
+    },
+    {
+        "név": "Charlie",
+        "fajta": "Australian Silky Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.07.17"
+    },
+    {
+        "név": "Chili",
+        "fajta": "Mops – Pug – Carlin",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.11.04"
+    },
+    {
+        "név": "Chili",
+        "fajta": "Slovenskў Kopov",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.09.12"
+    },
+    {
+        "név": "Chili",
+        "fajta": "Eesti Hagijas",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2018.02.23"
+    },
+    {
+        "név": "Chili",
+        "fajta": "Steirische Rauhhaarbracke",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2018.01.06"
+    },
+    {
+        "név": "Cimi",
+        "fajta": "Slovenský Ćuvać",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.07"
+    },
+    {
+        "név": "Cimi",
+        "fajta": "Poitevin",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.07.29"
+    },
+    {
+        "név": "Cimi",
+        "fajta": "Stabyhoun",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.07.19"
+    },
+    {
+        "név": "Cipő",
+        "fajta": "American Eskimo Dog",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.05.12"
+    },
+    {
+        "név": "Cipő",
+        "fajta": "Norrbottenspets",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.03.17"
+    },
+    {
+        "név": "Cipő",
+        "fajta": "Braque français, type Gascogne",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.08.30"
+    },
+    {
+        "név": "Cleo",
+        "fajta": "Cão Fila de São Miguel",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.10.18"
+    },
+    {
+        "név": "Cleo",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.04.22"
+    },
+    {
+        "név": "Cleo",
+        "fajta": "Griffon Fauve de Bretagne",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.16"
+    },
+    {
+        "név": "Coctail",
+        "fajta": "Gos d’Atura Catala",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.03.12"
+    },
+    {
+        "név": "Coctail",
+        "fajta": "Hollandse Herdershond Ruwhaar",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.08.01"
+    },
+    {
+        "név": "Cody",
+        "fajta": "Welsh Terrier",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.03.18"
+    },
+    {
+        "név": "Cody",
+        "fajta": "Miniature Caniche",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.12.06"
+    },
+    {
+        "név": "Cody",
+        "fajta": "Basset Fauve de Bretagne",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.07.05"
+    },
+    {
+        "név": "Cody",
+        "fajta": "Rhodesian Ridgeback",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.03.31"
+    },
+    {
+        "név": "Conen",
+        "fajta": "Beagle",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2018.01.22"
+    },
+    {
+        "név": "Conen",
+        "fajta": "Norsk Buhund",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.09.17"
+    },
+    {
+        "név": "Conen",
+        "fajta": "Steinbracke",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2018.01.27"
+    },
+    {
+        "név": "Connor",
+        "fajta": "King Charles Spaniel",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.02.26"
+    },
+    {
+        "név": "Cooper",
+        "fajta": "Steinbracke",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.07"
+    },
+    {
+        "név": "Corenis",
+        "fajta": "Istarski Kratkodlaki Gonič",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.24"
+    },
+    {
+        "név": "Corenis",
+        "fajta": "Welsh Corgi Cardigan",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.19"
+    },
+    {
+        "név": "Corenis",
+        "fajta": "Cesky Fousek",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.09.20"
+    },
+    {
+        "név": "Corenis",
+        "fajta": "Drótszőrű magyar vizsla",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.09.23"
+    },
+    {
+        "név": "Csabesz",
+        "fajta": "Basset d'Artois",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.07"
+    },
+    {
+        "név": "Csabesz",
+        "fajta": "Eurasian",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2018.01.11"
+    },
+    {
+        "név": "Csabesz",
+        "fajta": "Petit Bleu de Gascogne",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2018.01.24"
+    },
+    {
+        "név": "Csele",
+        "fajta": "Weimaraner",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.08.04"
+    },
+    {
+        "név": "Csele",
+        "fajta": "Norsk Lundehund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.01"
+    },
+    {
+        "név": "Csele",
+        "fajta": "Hygenhund",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.04.08"
+    },
+    {
+        "név": "Csibész",
+        "fajta": "Spinone Italiano",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.11.23"
+    },
+    {
+        "név": "Csibész",
+        "fajta": "Border Collie",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.04.15"
+    },
+    {
+        "név": "Csiri",
+        "fajta": "Border Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.12.23"
+    },
+    {
+        "név": "Csocso",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.11.29"
+    },
+    {
+        "név": "Csocso",
+        "fajta": "Schwyzer Niederlaufhund",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.12.28"
+    },
+    {
+        "név": "Csocso",
+        "fajta": "Moskovskaya Dog",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.10.23"
+    },
+    {
+        "név": "Csocso",
+        "fajta": "Redbone Coonhound",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.12"
+    },
+    {
+        "név": "Csöpi",
+        "fajta": "Landseer",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.19"
+    },
+    {
+        "név": "Csöpi",
+        "fajta": "Stabyhoun",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.03.26"
+    },
+    {
+        "név": "Cyri",
+        "fajta": "Coton de Tuléar",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.12.05"
+    },
+    {
+        "név": "Cyri",
+        "fajta": "Perro sin pelo del Perú",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.08.21"
+    },
+    {
+        "név": "Cyri",
+        "fajta": "Akbash",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.08.20"
+    },
+    {
+        "név": "Dave",
+        "fajta": "Chien Français Tricolore",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.04.13"
+    },
+    {
+        "név": "Dave",
+        "fajta": "American Water Spaniel",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.10.15"
+    },
+    {
+        "név": "Deb",
+        "fajta": "Manchester Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.07.10"
+    },
+    {
+        "név": "Deb",
+        "fajta": "Braque français, type Gascogne",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.09.08"
+    },
+    {
+        "név": "Deni",
+        "fajta": "Kromfohrländer",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.03"
+    },
+    {
+        "név": "Deni",
+        "fajta": "Shih Tzu",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.08.10"
+    },
+    {
+        "név": "Denisz",
+        "fajta": "Xoloitzcuintle",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.02.07"
+    },
+    {
+        "név": "Denisz",
+        "fajta": "Tornjak",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.04.14"
+    },
+    {
+        "név": "Denisz",
+        "fajta": "Dobermann",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.10.23"
+    },
+    {
+        "név": "Denisz",
+        "fajta": "Shar Pei",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.09.12"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Braque Belge",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.10.13"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Russkaya Psovaya Borzaya",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.01"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Coton de Tuléar",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.07.15"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Podenco Canario",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.03.22"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Cirneco dell'Etna",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.09.16"
+    },
+    {
+        "név": "Dennis",
+        "fajta": "Chien de Saint-Hubert",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.04.22"
+    },
+    {
+        "név": "Denny",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.10.11"
+    },
+    {
+        "név": "Deny",
+        "fajta": "Deutscher Kleinspitz",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.11.19"
+    },
+    {
+        "név": "Deny",
+        "fajta": "Pastore Siriano",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.05.03"
+    },
+    {
+        "név": "Dexter",
+        "fajta": "Deerhound",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.08.11"
+    },
+    {
+        "név": "Dexter",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.01.25"
+    },
+    {
+        "név": "Dexter",
+        "fajta": "Bernese Laufhund",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.01"
+    },
+    {
+        "név": "Dexter",
+        "fajta": "Terrier Brasileiro",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.04.14"
+    },
+    {
+        "név": "Dini",
+        "fajta": "Griffon á Poil Laineux",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.04.23"
+    },
+    {
+        "név": "Disney",
+        "fajta": "Standard Caniche",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.12.02"
+    },
+    {
+        "név": "Disney",
+        "fajta": "Grand Anglo-Français Blanc et Orange",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.30"
+    },
+    {
+        "név": "Dodó",
+        "fajta": "Bouledogue français",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.03.15"
+    },
+    {
+        "név": "Dodó",
+        "fajta": "Airedale Terrier",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.10.20"
+    },
+    {
+        "név": "Dodó",
+        "fajta": "Shih Tzu",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.02.27"
+    },
+    {
+        "név": "Domino",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.12.22"
+    },
+    {
+        "név": "Domino",
+        "fajta": "Treeing Walker Coonhound",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.09.18"
+    },
+    {
+        "név": "Donáld",
+        "fajta": "Mastín del Pirineo",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.04.03"
+    },
+    {
+        "név": "Donáld",
+        "fajta": "Norfolk Terrier",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2018.01.15"
+    },
+    {
+        "név": "Dzsángó",
+        "fajta": "Drever",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.03.28"
+    },
+    {
+        "név": "Dzseki",
+        "fajta": "Srpski Gonič",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.03.02"
+    },
+    {
+        "név": "Dzseki",
+        "fajta": "Cão de Agua Português",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.03.16"
+    },
+    {
+        "név": "Dzseki",
+        "fajta": "Shiba",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.06.22"
+    },
+    {
+        "név": "Dzseni",
+        "fajta": "Pudelpointer",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.09.15"
+    },
+    {
+        "név": "Dzseni",
+        "fajta": "Kintamani",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2018.01.10"
+    },
+    {
+        "név": "Dzseni",
+        "fajta": "Griffon á Poil Laineux",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.02.04"
+    },
+    {
+        "név": "Dzseni",
+        "fajta": "Brandlbracke – Vieräugl",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.07.31"
+    },
+    {
+        "név": "Dzsina",
+        "fajta": "Latvijas Dzinejsuns",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.10.23"
+    },
+    {
+        "név": "Dzsina",
+        "fajta": "Drótszőrű magyar vizsla",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.06.12"
+    },
+    {
+        "név": "Dzsuli",
+        "fajta": "Irish Wolfhound",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.04.01"
+    },
+    {
+        "név": "Dzsuli",
+        "fajta": "Schwyzer Niederlaufhund",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2018.01.02"
+    },
+    {
+        "név": "Dzsuli",
+        "fajta": "Cane da pastore Bergamasco",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.05.15"
+    },
+    {
+        "név": "Dzsuli",
+        "fajta": "English Springer Spaniel",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.12.12"
+    },
+    {
+        "név": "Edu",
+        "fajta": "Groenendael",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.09.16"
+    },
+    {
+        "név": "Emi",
+        "fajta": "Irish Water Spaniel",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2018.01.24"
+    },
+    {
+        "név": "Eminem",
+        "fajta": "Piccolo Levriero Italiano",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.12.03"
+    },
+    {
+        "név": "Eric",
+        "fajta": "Pekingese",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.04"
+    },
+    {
+        "név": "Eric",
+        "fajta": "Braque d’Auvergne",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.28"
+    },
+    {
+        "név": "Eron",
+        "fajta": "Lakeland Terrier",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.12.18"
+    },
+    {
+        "név": "Eron",
+        "fajta": "Epagneul bleu de Picardie",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.12.03"
+    },
+    {
+        "név": "Eron",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2018.01.03"
+    },
+    {
+        "név": "Etnis",
+        "fajta": "Samoiedskaïa Sabaka",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.10.09"
+    },
+    {
+        "név": "Etnis",
+        "fajta": "Großspitz",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.02.26"
+    },
+    {
+        "név": "Etnis",
+        "fajta": "Chien de Saint-Hubert",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.11.05"
+    },
+    {
+        "név": "Fidó",
+        "fajta": "Pharaoh Hound",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.17"
+    },
+    {
+        "név": "Fifu",
+        "fajta": "Wetterhoun",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.08"
+    },
+    {
+        "név": "Fifu",
+        "fajta": "Gos d’Atura Catala",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.11.05"
+    },
+    {
+        "név": "Fifu",
+        "fajta": "Siberian Husky",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.03.28"
+    },
+    {
+        "név": "Fifu",
+        "fajta": "Deutscher Mittelspitz",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.04.11"
+    },
+    {
+        "név": "Filo",
+        "fajta": "Alano Español",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.04.22"
+    },
+    {
+        "név": "Frodó",
+        "fajta": "Saluki",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.11.27"
+    },
+    {
+        "név": "Frodó",
+        "fajta": "Plott Hound",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.12.11"
+    },
+    {
+        "név": "Frosty",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.11.01"
+    },
+    {
+        "név": "Frosty",
+        "fajta": "Bolonka Franzuska",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.08.30"
+    },
+    {
+        "név": "Gibby",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.07.26"
+    },
+    {
+        "név": "Gino",
+        "fajta": "Deutscher Boxer",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.09.19"
+    },
+    {
+        "név": "Gino",
+        "fajta": "Deutsch Kurzhaar",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.05.04"
+    },
+    {
+        "név": "Gino",
+        "fajta": "Leonberger",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.08.19"
+    },
+    {
+        "név": "Gino",
+        "fajta": "Sussex Spaniel",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.13"
+    },
+    {
+        "név": "Gino",
+        "fajta": "Mastín español",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.09.05"
+    },
+    {
+        "név": "Gizi",
+        "fajta": "Latvijas Dzinejsuns",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.05.19"
+    },
+    {
+        "név": "Gizi",
+        "fajta": "Irish Terrirer",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.01.20"
+    },
+    {
+        "név": "Gizi",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.02.07"
+    },
+    {
+        "név": "Goldie",
+        "fajta": "Taiwan Dog",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.05.12"
+    },
+    {
+        "név": "Goldie",
+        "fajta": "Norsk Buhund",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.11.18"
+    },
+    {
+        "név": "Goldy",
+        "fajta": "Shih Tzu",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.03.23"
+    },
+    {
+        "név": "Goldy",
+        "fajta": "Ogar polski",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.09.22"
+    },
+    {
+        "név": "Goldy",
+        "fajta": "Cavalier King Charles Spaniel",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.09.22"
+    },
+    {
+        "név": "Goldy",
+        "fajta": "Boykin Spaniel",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2018.01.21"
+    },
+    {
+        "név": "Gólem",
+        "fajta": "Petit Bleu de Gascogne",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2018.02.09"
+    },
+    {
+        "név": "Gólem",
+        "fajta": "Bosanski Ostrodlaki Gonič – Barak",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.01.10"
+    },
+    {
+        "név": "Gólem",
+        "fajta": "Irish Red Setter",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.08.27"
+    },
+    {
+        "név": "Gólem",
+        "fajta": "Drótszőrű magyar vizsla",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.09.22"
+    },
+    {
+        "név": "Golfi",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.08.15"
+    },
+    {
+        "név": "Golfi",
+        "fajta": "American Eskimo Dog",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.08.23"
+    },
+    {
+        "név": "Golyó",
+        "fajta": "Tiroler Bracke",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.09.13"
+    },
+    {
+        "név": "Golyó",
+        "fajta": "Hovawart",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.04.06"
+    },
+    {
+        "név": "Golyó",
+        "fajta": "Zwergspitz",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.01.04"
+    },
+    {
+        "név": "Golyó",
+        "fajta": "Griffon Nivernais",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.03"
+    },
+    {
+        "név": "Golyó",
+        "fajta": "Grosser Münsterländer Vorstehhund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.12"
+    },
+    {
+        "név": "Google",
+        "fajta": "Xoloitzcuintle",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2018.01.11"
+    },
+    {
+        "név": "Google",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.04.19"
+    },
+    {
+        "név": "Google",
+        "fajta": "Yorkshire Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.06.02"
+    },
+    {
+        "név": "Google",
+        "fajta": "Schillerstövare",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2018.02.25"
+    },
+    {
+        "név": "Gray",
+        "fajta": "Appenzeller Sennenhund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.06.09"
+    },
+    {
+        "név": "Gray",
+        "fajta": "Deerhound",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.05.04"
+    },
+    {
+        "név": "Gray",
+        "fajta": "American Pit Bullterrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.03"
+    },
+    {
+        "név": "Gray",
+        "fajta": "Dunker",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.12.19"
+    },
+    {
+        "név": "Gringó",
+        "fajta": "Afghan Hound",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.06.05"
+    },
+    {
+        "név": "Gringó",
+        "fajta": "Kishu",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.08.30"
+    },
+    {
+        "név": "Gringó",
+        "fajta": "West Highland White Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.06.24"
+    },
+    {
+        "név": "Hannibál",
+        "fajta": "Keeshond",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.02.27"
+    },
+    {
+        "név": "Harcos",
+        "fajta": "Bouvier des Ardennes",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.03.17"
+    },
+    {
+        "név": "Harcos",
+        "fajta": "Deutscher Kleinspitz",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.08.17"
+    },
+    {
+        "név": "Hector",
+        "fajta": "Braque du Bourbonnais",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.08.25"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "American Staffordshire Terrier",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.04.15"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "Svensk Lapphund",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.03.13"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "Steinbracke",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2018.01.07"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "English Shepherd",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.09.28"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "Otterhound",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.12.11"
+    },
+    {
+        "név": "Hepi",
+        "fajta": "Cirneco dell'Etna",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2018.01.23"
+    },
+    {
+        "név": "Hópihe",
+        "fajta": "Australian Stumpy Tail Cattle Dog",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.06.08"
+    },
+    {
+        "név": "Houdini",
+        "fajta": "Kai",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.05.24"
+    },
+    {
+        "név": "Huncut",
+        "fajta": "Barbet",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.07.16"
+    },
+    {
+        "név": "Huncut",
+        "fajta": "Pumi",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.01.31"
+    },
+    {
+        "név": "Huncut",
+        "fajta": "Ciobănesc Românesc Carpatin",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.04.15"
+    },
+    {
+        "név": "Huncutka",
+        "fajta": "Braque du Bourbonnais",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.04.26"
+    },
+    {
+        "név": "Írisz",
+        "fajta": "Ariege-Hound",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.04.26"
+    },
+    {
+        "név": "Isi",
+        "fajta": "Chien de Montagne des Pyrénées",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.03.25"
+    },
+    {
+        "név": "Isi",
+        "fajta": "Biewer Yorkshire Terrier",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.06.12"
+    },
+    {
+        "név": "Isi",
+        "fajta": "Griffon á Poil Laineux",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.05.29"
+    },
+    {
+        "név": "Izabella",
+        "fajta": "Luzerner Laufhund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.24"
+    },
+    {
+        "név": "Izabella",
+        "fajta": "Jura Niederlaufhund",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.26"
+    },
+    {
+        "név": "Jaffa",
+        "fajta": "Deutsch Langhaar",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.02.26"
+    },
+    {
+        "név": "Jaffa",
+        "fajta": "Kooikerhondje",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.22"
+    },
+    {
+        "név": "Jago",
+        "fajta": "Hannoverscher Schweisshund",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.10.15"
+    },
+    {
+        "név": "Jago",
+        "fajta": "King Charles Spaniel",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.06.19"
+    },
+    {
+        "név": "Jago",
+        "fajta": "Greyhound",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.06.16"
+    },
+    {
+        "név": "Jakie",
+        "fajta": "Beagle Harrier",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.10.11"
+    },
+    {
+        "név": "Jakie",
+        "fajta": "Weimaraner",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.12.06"
+    },
+    {
+        "név": "Jasper",
+        "fajta": "Nihon Teria",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.11.05"
+    },
+    {
+        "név": "Jasper",
+        "fajta": "Barbet",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.03.14"
+    },
+    {
+        "név": "Jeny",
+        "fajta": "Eurasian",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.04.21"
+    },
+    {
+        "név": "Jeny",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.02.25"
+    },
+    {
+        "név": "Jessy",
+        "fajta": "Smålandsstövare",
+        "életkor": "20",
+        "utolsó orvosi ellenőrzés": "2017.05.14"
+    },
+    {
+        "név": "Jessy",
+        "fajta": "Deutsch Kurzhaar",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.26"
+    },
+    {
+        "név": "Jhony",
+        "fajta": "Australian Kelpie",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.09.14"
+    },
+    {
+        "név": "Jhony",
+        "fajta": "Bolognese",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2018.02.11"
+    },
+    {
+        "név": "Jhony",
+        "fajta": "Jugoslovenski Ovcarski Pas – Sarplaninac",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.11.20"
+    },
+    {
+        "név": "Jin",
+        "fajta": "Dogue de Bordeaux",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.06.12"
+    },
+    {
+        "név": "Jin",
+        "fajta": "Braque Dupuy",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.11.27"
+    },
+    {
+        "név": "Jin",
+        "fajta": "Crnogorski Planinski Gonič",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.09.26"
+    },
+    {
+        "név": "Jin",
+        "fajta": "Pekingese",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.12.13"
+    },
+    {
+        "név": "Johnny",
+        "fajta": "Sabueso Español",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.04.11"
+    },
+    {
+        "név": "Joker",
+        "fajta": "Shetland Sheepdog",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.11.23"
+    },
+    {
+        "név": "Joky",
+        "fajta": "American Eskimo Dog",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Joky",
+        "fajta": "Ioujnorousskaia Ovtcharka",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.10.08"
+    },
+    {
+        "név": "Jolly",
+        "fajta": "Basset d'Artois",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.04.16"
+    },
+    {
+        "név": "Jolly",
+        "fajta": "Segugio Italiano a Pelo Raso",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.05.25"
+    },
+    {
+        "név": "Josy",
+        "fajta": "Suomenpystykorva",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.12.31"
+    },
+    {
+        "név": "Josy",
+        "fajta": "Drentsche Patrijshond",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.26"
+    },
+    {
+        "név": "Junior",
+        "fajta": "Tornjak",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.13"
+    },
+    {
+        "név": "Jyl",
+        "fajta": "Maltese",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.03.02"
+    },
+    {
+        "név": "Kamino",
+        "fajta": "Drentsche Patrijshond",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.05.02"
+    },
+    {
+        "név": "Kamino",
+        "fajta": "",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.08.20"
+    },
+    {
+        "név": "Kávé",
+        "fajta": "American Eskimo Dog",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.02.25"
+    },
+    {
+        "név": "Kávé",
+        "fajta": "Kintamani",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.10.03"
+    },
+    {
+        "név": "Kávé",
+        "fajta": "Kromfohrländer",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.10.20"
+    },
+    {
+        "név": "Kenny",
+        "fajta": "Basenji",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.08.13"
+    },
+    {
+        "név": "Kenny",
+        "fajta": "Poitevin",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.04.29"
+    },
+    {
+        "név": "Kenny",
+        "fajta": "Levesque",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.09.19"
+    },
+    {
+        "név": "Kety",
+        "fajta": "Sredneasiatskaïa Ovtcharka",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.12.24"
+    },
+    {
+        "név": "Kety",
+        "fajta": "Cão da Serra da Estrela",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Killer",
+        "fajta": "Berger de Beauce",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2018.01.03"
+    },
+    {
+        "név": "Kinder",
+        "fajta": "Jura Niederlaufhund",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.10"
+    },
+    {
+        "név": "Kinder",
+        "fajta": "Griffon Nivernais",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.23"
+    },
+    {
+        "név": "Kinder",
+        "fajta": "Sloughi",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.06.15"
+    },
+    {
+        "név": "Kipper",
+        "fajta": "Haldenstøver",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.03.30"
+    },
+    {
+        "név": "Kitty",
+        "fajta": "Australian Cattle Dog",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.06.18"
+    },
+    {
+        "név": "Kitty",
+        "fajta": "Slovenskў Kopov",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.05.02"
+    },
+    {
+        "név": "Kiwi",
+        "fajta": "Gontchaja Russkaja",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.10.09"
+    },
+    {
+        "név": "Kiwi",
+        "fajta": "Kraski Ovčar",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.03.12"
+    },
+    {
+        "név": "Kody",
+        "fajta": "American Staffordshire Terrier",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.09.26"
+    },
+    {
+        "név": "Kody",
+        "fajta": "Grand Gascon Saintongeois",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.02.26"
+    },
+    {
+        "név": "Kody",
+        "fajta": "Srpski Gonič",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.02.09"
+    },
+    {
+        "név": "Kokó",
+        "fajta": "Chihuahueño",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.08"
+    },
+    {
+        "név": "Kokó",
+        "fajta": "Alpenländische Dachsbracke",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.01"
+    },
+    {
+        "név": "Kokó",
+        "fajta": "Toy Caniche",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.05.24"
+    },
+    {
+        "név": "Kokó",
+        "fajta": "Whippet",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.27"
+    },
+    {
+        "név": "Kokó",
+        "fajta": "Chien de Trait Belge",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.05.17"
+    },
+    {
+        "név": "Krona",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2018.02.26"
+    },
+    {
+        "név": "Krona",
+        "fajta": "Laekenois",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.10.26"
+    },
+    {
+        "név": "Kukuc",
+        "fajta": "Groenendael",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.04.24"
+    },
+    {
+        "név": "Kukuc",
+        "fajta": "Porcelaine",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.04.23"
+    },
+    {
+        "név": "Kukuc",
+        "fajta": "Berger de Beauce",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.03.09"
+    },
+    {
+        "név": "Leon",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.07.24"
+    },
+    {
+        "név": "Letty",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.11.14"
+    },
+    {
+        "név": "Letty",
+        "fajta": "Telomian",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.07.21"
+    },
+    {
+        "név": "Letty",
+        "fajta": "Brandlbracke – Vieräugl",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2018.02.09"
+    },
+    {
+        "név": "Letty",
+        "fajta": "Ogar polski",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.09.29"
+    },
+    {
+        "név": "Letty",
+        "fajta": "Bracco Italiano",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.08.16"
+    },
+    {
+        "név": "Lexi",
+        "fajta": "Berger de Beauce",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.12.15"
+    },
+    {
+        "név": "Lia",
+        "fajta": "Dachshund",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.09.06"
+    },
+    {
+        "név": "Lia",
+        "fajta": "Spinone Italiano",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.26"
+    },
+    {
+        "név": "Lia",
+        "fajta": "Clumber Spaniel",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2018.01.26"
+    },
+    {
+        "név": "Lilike",
+        "fajta": "Bedlington Terrier",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.06.30"
+    },
+    {
+        "név": "Lilike",
+        "fajta": "Rhodesian Ridgeback",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.04.01"
+    },
+    {
+        "név": "Liló",
+        "fajta": "Suomenpystykorva",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.11.17"
+    },
+    {
+        "név": "Liló",
+        "fajta": "Grand Anglo-Français Tricolore",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.11.22"
+    },
+    {
+        "név": "Lilus",
+        "fajta": "Bichon à poil frisé",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.11.16"
+    },
+    {
+        "név": "Lilus",
+        "fajta": "Hollandse Herdershond Ruwhaar",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.08.03"
+    },
+    {
+        "név": "Lilus",
+        "fajta": "Luzerner Laufhund",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.09.26"
+    },
+    {
+        "név": "Lilus",
+        "fajta": "Drever",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.11.15"
+    },
+    {
+        "név": "Lilus",
+        "fajta": "Magyar agár",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2018.01.22"
+    },
+    {
+        "név": "Lizy",
+        "fajta": "Shar Pei",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.20"
+    },
+    {
+        "név": "Lizzy",
+        "fajta": "American Eskimo Dog",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.03.13"
+    },
+    {
+        "név": "Lőlik",
+        "fajta": "Podengo Português",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.02"
+    },
+    {
+        "név": "Lőlik",
+        "fajta": "Eurasian",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.02.11"
+    },
+    {
+        "név": "Lolli",
+        "fajta": "Braque Belge",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.05.24"
+    },
+    {
+        "név": "Lucky",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.12.14"
+    },
+    {
+        "név": "Lüki",
+        "fajta": "Do-Khyi",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.06.28"
+    },
+    {
+        "név": "Lüki",
+        "fajta": "Otterhound",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.10.20"
+    },
+    {
+        "név": "Lüki",
+        "fajta": "Zwergschnauzer",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.11.21"
+    },
+    {
+        "név": "Lüki",
+        "fajta": "Leonberger",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.12.27"
+    },
+    {
+        "név": "Lüszi",
+        "fajta": "Boykin Spaniel",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.03.21"
+    },
+    {
+        "név": "Lüszi",
+        "fajta": "Gammel Dansk Hønsehund",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.11.08"
+    },
+    {
+        "név": "Lüszi",
+        "fajta": "Islenskur Fjárhundur",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.08.08"
+    },
+    {
+        "név": "Lüszi",
+        "fajta": "Chow Chow",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.05.13"
+    },
+    {
+        "név": "Luxi",
+        "fajta": "Berger Blanc Suisse",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.12.19"
+    },
+    {
+        "név": "Macifül",
+        "fajta": "Akita",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.07.09"
+    },
+    {
+        "név": "Madox",
+        "fajta": "Jura Laufhund",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.06.24"
+    },
+    {
+        "név": "Madox",
+        "fajta": "Berger de Brie",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.08.07"
+    },
+    {
+        "név": "Madox",
+        "fajta": "Shar Pei",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.09.05"
+    },
+    {
+        "név": "Madox",
+        "fajta": "Brandlbracke – Vieräugl",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.05.05"
+    },
+    {
+        "név": "Madox",
+        "fajta": "Grønlandshund",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.09"
+    },
+    {
+        "név": "Mandi",
+        "fajta": "Jura Niederlaufhund",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.11.17"
+    },
+    {
+        "név": "Mandi",
+        "fajta": "Shikoku",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.09.11"
+    },
+    {
+        "név": "Mandi",
+        "fajta": "Thai Ridgeback Dog",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.06.13"
+    },
+    {
+        "név": "Manitu",
+        "fajta": "Alopekis",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.08.20"
+    },
+    {
+        "név": "Manitu",
+        "fajta": "Karjalankarhukoira",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.04.26"
+    },
+    {
+        "név": "Marco Polo",
+        "fajta": "Mops – Pug – Carlin",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.09.03"
+    },
+    {
+        "név": "Marco Polo",
+        "fajta": "Cão da Serra da Estrela",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Marco Polo",
+        "fajta": "Field Spaniel",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.04.09"
+    },
+    {
+        "név": "Marco Polo",
+        "fajta": "Bouledogue français",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.03"
+    },
+    {
+        "név": "Mary",
+        "fajta": "Spinone Italiano",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.03.03"
+    },
+    {
+        "név": "Mary",
+        "fajta": "Ciobănesc românesc mioritic",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.11"
+    },
+    {
+        "név": "Mázly",
+        "fajta": "Lhasa Apso",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.07.23"
+    },
+    {
+        "név": "Mázly",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.10.03"
+    },
+    {
+        "név": "Mázly",
+        "fajta": "Alaskan Malamute",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.09.26"
+    },
+    {
+        "név": "Mázly",
+        "fajta": "Cane Corso Italiano",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.03.13"
+    },
+    {
+        "név": "Mexi",
+        "fajta": "Bosanski Ostrodlaki Gonič – Barak",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.26"
+    },
+    {
+        "név": "Mexx",
+        "fajta": "Cane da pastore Maremmano-Abruzzese",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.15"
+    },
+    {
+        "név": "Mexy",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.05.17"
+    },
+    {
+        "név": "Mia",
+        "fajta": "Nihon Supittsu",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.04.20"
+    },
+    {
+        "név": "Mikey",
+        "fajta": "Cairn Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.23"
+    },
+    {
+        "név": "Mikey",
+        "fajta": "Nihon Supittsu",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.01.11"
+    },
+    {
+        "név": "Mikey",
+        "fajta": "Brandlbracke – Vieräugl",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.06.13"
+    },
+    {
+        "név": "Mikey",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.04.09"
+    },
+    {
+        "név": "Mikey",
+        "fajta": "Bullmastiff",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.03"
+    },
+    {
+        "név": "Milou",
+        "fajta": "Shar Pei",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.06.10"
+    },
+    {
+        "név": "Milou",
+        "fajta": "English Coonhound",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.03.31"
+    },
+    {
+        "név": "Misszi",
+        "fajta": "Pekingese",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.11.22"
+    },
+    {
+        "név": "Misszi",
+        "fajta": "Terrier Brasileiro",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.20"
+    },
+    {
+        "név": "Misszi",
+        "fajta": "Alopekis",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.27"
+    },
+    {
+        "név": "Misszi",
+        "fajta": "Podenco Canario",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.12.01"
+    },
+    {
+        "név": "Móric",
+        "fajta": "English Foxhound",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.03"
+    },
+    {
+        "név": "Móric",
+        "fajta": "Suomenlapinkoira",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.09.07"
+    },
+    {
+        "név": "Móric",
+        "fajta": "Landseer",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.11.01"
+    },
+    {
+        "név": "Mozart",
+        "fajta": "Greyhound",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.09.15"
+    },
+    {
+        "név": "Mozart",
+        "fajta": "Mastín español",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.21"
+    },
+    {
+        "név": "Murphy",
+        "fajta": "Zwergpinscher",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.22"
+    },
+    {
+        "név": "Murphy",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.06"
+    },
+    {
+        "név": "Murphy",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.03.22"
+    },
+    {
+        "név": "Murphy",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.12.14"
+    },
+    {
+        "név": "Murphy",
+        "fajta": "Bichon havanais",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.11.29"
+    },
+    {
+        "név": "Naga",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2018.02.23"
+    },
+    {
+        "név": "Naga",
+        "fajta": "Moskovskaya Storozhevaya",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.11.04"
+    },
+    {
+        "név": "Naga",
+        "fajta": "Chien Français Blanc et Noir",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.08.19"
+    },
+    {
+        "név": "Naga",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.08.12"
+    },
+    {
+        "név": "Napóleon",
+        "fajta": "English Toy Terrier",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.03.09"
+    },
+    {
+        "név": "Napóleon",
+        "fajta": "Manchester Terrier",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.02.21"
+    },
+    {
+        "név": "Napóleon",
+        "fajta": "Australian Kelpie",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.04.01"
+    },
+    {
+        "név": "Nessi",
+        "fajta": "Brandlbracke – Vieräugl",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.02"
+    },
+    {
+        "név": "Nessi",
+        "fajta": "Komondor",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.08.04"
+    },
+    {
+        "név": "Nessi",
+        "fajta": "Sussex Spaniel",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.04.12"
+    },
+    {
+        "név": "Nessi",
+        "fajta": "Cão da Serra da Estrela",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.03.12"
+    },
+    {
+        "név": "Netty",
+        "fajta": "Jugoslovenski Ovcarski Pas – Sarplaninac",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.14"
+    },
+    {
+        "név": "Nocsi",
+        "fajta": "Gontchaja Russkaja",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.09.08"
+    },
+    {
+        "név": "Nono",
+        "fajta": "Chien d’Artois",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.10.10"
+    },
+    {
+        "név": "Otisz",
+        "fajta": "Japanese Middle Sized Dog",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2018.02.08"
+    },
+    {
+        "név": "Otisz",
+        "fajta": "Saluki",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.14"
+    },
+    {
+        "név": "Pacsi",
+        "fajta": "Slovenskў Kopov",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.12.06"
+    },
+    {
+        "név": "Pacsi",
+        "fajta": "Biewer Yorkshire Terrier",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.04.04"
+    },
+    {
+        "név": "Panka",
+        "fajta": "Canaan Dog",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.07"
+    },
+    {
+        "név": "Panka",
+        "fajta": "Nihon Supittsu",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.04.20"
+    },
+    {
+        "név": "Panka",
+        "fajta": "Français Blanc et Orange",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.08.06"
+    },
+    {
+        "név": "Panka",
+        "fajta": "Norsk Lundehund",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2018.01.25"
+    },
+    {
+        "név": "Panka",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.05.23"
+    },
+    {
+        "név": "Party",
+        "fajta": "",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.10.04"
+    },
+    {
+        "név": "Patent",
+        "fajta": "Whippet",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.03.02"
+    },
+    {
+        "név": "Patent",
+        "fajta": "American Water Spaniel",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.11.14"
+    },
+    {
+        "név": "Patent",
+        "fajta": "Saluki",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2018.01.15"
+    },
+    {
+        "név": "Pimasz",
+        "fajta": "Komondor",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.06"
+    },
+    {
+        "név": "Pimasz",
+        "fajta": "Bolognese",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.04.16"
+    },
+    {
+        "név": "Pimasz",
+        "fajta": "Großspitz",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.04.07"
+    },
+    {
+        "név": "Plüsi",
+        "fajta": "Deutsche Bracke",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.11.22"
+    },
+    {
+        "név": "Polka",
+        "fajta": "Kangaroo Dog",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.03.24"
+    },
+    {
+        "név": "Polka",
+        "fajta": "Hannoverscher Schweisshund",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.10.23"
+    },
+    {
+        "név": "Porti",
+        "fajta": "Sanshu",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.14"
+    },
+    {
+        "név": "Rafi",
+        "fajta": "Dobermann",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.06.07"
+    },
+    {
+        "név": "Réka",
+        "fajta": "Tennessee Treeing Brindle",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2018.02.17"
+    },
+    {
+        "név": "Réka",
+        "fajta": "Luzerner Laufhund",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Réka",
+        "fajta": "Latvijas Dzinejsuns",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.06"
+    },
+    {
+        "név": "Réka",
+        "fajta": "Griffon á Poil Laineux",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.11.08"
+    },
+    {
+        "név": "Rézi",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.06.29"
+    },
+    {
+        "név": "Rézi",
+        "fajta": "Toy Fox Terrier",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.03.01"
+    },
+    {
+        "név": "Rézi",
+        "fajta": "Curly Coated Retriever",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.10.18"
+    },
+    {
+        "név": "Rézi",
+        "fajta": "Suomenajokoira",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.06.01"
+    },
+    {
+        "név": "Ricsi",
+        "fajta": "Suomenpystykorva",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.10.06"
+    },
+    {
+        "név": "Rikiki",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.08.24"
+    },
+    {
+        "név": "Rikiki",
+        "fajta": "Border Terrier",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.11.02"
+    },
+    {
+        "név": "Rómeó",
+        "fajta": "Bullmastiff",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.09.29"
+    },
+    {
+        "név": "Rómeó",
+        "fajta": "Norfolk Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.07.08"
+    },
+    {
+        "név": "Roti",
+        "fajta": "Tosa",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2018.01.10"
+    },
+    {
+        "név": "Roti",
+        "fajta": "Levesque",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.01.22"
+    },
+    {
+        "név": "Royal",
+        "fajta": "English Foxhound",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.03.04"
+    },
+    {
+        "név": "Royal",
+        "fajta": "Srpski Gonič",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.08.29"
+    },
+    {
+        "név": "Rupert",
+        "fajta": "Chien de Montagne de l’Atlas – Aïdi",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.09.14"
+    },
+    {
+        "név": "Sábi",
+        "fajta": "Bracco Italiano",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2018.01.31"
+    },
+    {
+        "név": "Saidka",
+        "fajta": "Chinese Crested Dog",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.28"
+    },
+    {
+        "név": "Saidka",
+        "fajta": "Dogue de Bordeaux",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2018.02.15"
+    },
+    {
+        "név": "Saidka",
+        "fajta": "Coton de Tuléar",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.02.28"
+    },
+    {
+        "név": "Sally",
+        "fajta": "Sussex Spaniel",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.09.05"
+    },
+    {
+        "név": "Sammy",
+        "fajta": "Zwergpinscher",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.16"
+    },
+    {
+        "név": "Sanci",
+        "fajta": "Alopekis",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.08.07"
+    },
+    {
+        "név": "Sanci",
+        "fajta": "Dandie Dinmont Terrier",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.07.06"
+    },
+    {
+        "név": "Santos",
+        "fajta": "Carolina dog",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.12.01"
+    },
+    {
+        "név": "Santos",
+        "fajta": "Toy Caniche",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.12.07"
+    },
+    {
+        "név": "Santos",
+        "fajta": "Anglo-français de petite vénerie",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.16"
+    },
+    {
+        "név": "Scooby",
+        "fajta": "Československý vlčák",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.11.23"
+    },
+    {
+        "név": "Snoopy",
+        "fajta": "Epagneul bleu de Picardie",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.07.07"
+    },
+    {
+        "név": "Snoopy",
+        "fajta": "Redtick Coonhound",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.10.06"
+    },
+    {
+        "név": "Snoopy",
+        "fajta": "Deutsche Dogge",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.11.01"
+    },
+    {
+        "név": "Sofi",
+        "fajta": "Drentsche Patrijshond",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.06.04"
+    },
+    {
+        "név": "Sofi",
+        "fajta": "Tervueren",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2018.01.06"
+    },
+    {
+        "név": "Sofi",
+        "fajta": "Bullmastiff",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.04.22"
+    },
+    {
+        "név": "Sofi",
+        "fajta": "Jura Niederlaufhund",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.11.11"
+    },
+    {
+        "név": "Sol",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.10.17"
+    },
+    {
+        "név": "Sol",
+        "fajta": "Eurasian",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.03.24"
+    },
+    {
+        "név": "Spyke",
+        "fajta": "Komondor",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.07.30"
+    },
+    {
+        "név": "Spyke",
+        "fajta": "Yorkshire Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.11.19"
+    },
+    {
+        "név": "Steffi",
+        "fajta": "Mastino Napoletano",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.16"
+    },
+    {
+        "név": "Stefi",
+        "fajta": "Braque Dupuy",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.07.10"
+    },
+    {
+        "név": "Stefi",
+        "fajta": "Sloughi",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.08.05"
+    },
+    {
+        "név": "Stefi",
+        "fajta": "Standard Caniche",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.05.15"
+    },
+    {
+        "név": "Stefi",
+        "fajta": "Shikoku",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.12.25"
+    },
+    {
+        "név": "Stefi",
+        "fajta": "Chien Français Tricolore",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2018.02.20"
+    },
+    {
+        "név": "Szaffi",
+        "fajta": "Sussex Spaniel",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.03.10"
+    },
+    {
+        "név": "Szimba",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.10.31"
+    },
+    {
+        "név": "Szimba",
+        "fajta": "Gończy Polski",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.04.26"
+    },
+    {
+        "név": "Szimba",
+        "fajta": "Mastiff",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.03.08"
+    },
+    {
+        "név": "Sziszike",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.09.03"
+    },
+    {
+        "név": "Sziszike",
+        "fajta": "Pharaoh Hound",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.08.21"
+    },
+    {
+        "név": "Sziszike",
+        "fajta": "Maltese",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.04.11"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Posavski Gonič",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.12.08"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Irish Wolfhound",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.12.14"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Gråhund",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.10.08"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Whippet",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.16"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Black and Tan Coonhound",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.01.10"
+    },
+    {
+        "név": "Szofi",
+        "fajta": "Perro de Agua Español",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.01.07"
+    },
+    {
+        "név": "Tacsi",
+        "fajta": "Azawakh",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2018.02.26"
+    },
+    {
+        "név": "Tacsi",
+        "fajta": "Shiba",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2017.04.25"
+    },
+    {
+        "név": "Tacsi",
+        "fajta": "Pharaoh Hound",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.11.19"
+    },
+    {
+        "név": "Tapancs",
+        "fajta": "Sealyham Terrier",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.12.24"
+    },
+    {
+        "név": "Tapancs",
+        "fajta": "Scottish Terrier",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.07.09"
+    },
+    {
+        "név": "Tapi",
+        "fajta": "White Shepherd Dog",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.11.13"
+    },
+    {
+        "név": "Tapi",
+        "fajta": "Epagneul français",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.05.26"
+    },
+    {
+        "név": "Tekila",
+        "fajta": "Biewer Yorkshire Terrier",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.06.25"
+    },
+    {
+        "név": "Tekila",
+        "fajta": "Deutscher Kleinspitz",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.06.12"
+    },
+    {
+        "név": "Tekila",
+        "fajta": "Chien de Montagne des Pyrénées",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.12.15"
+    },
+    {
+        "név": "Tekla",
+        "fajta": "Tervueren",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.11.04"
+    },
+    {
+        "név": "Tekla",
+        "fajta": "Piccolo Levriero Italiano",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.05.14"
+    },
+    {
+        "név": "Tekla",
+        "fajta": "Chihuahueño",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.22"
+    },
+    {
+        "név": "Tekla",
+        "fajta": "Deutscher Boxer",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2018.02.26"
+    },
+    {
+        "név": "Teo",
+        "fajta": "Affenpinscher",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.08.05"
+    },
+    {
+        "név": "Teo",
+        "fajta": "Dalmatinac",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.12.15"
+    },
+    {
+        "név": "Teo",
+        "fajta": "Deutscher Boxer",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.07.19"
+    },
+    {
+        "név": "Teo",
+        "fajta": "Tosa",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.08.30"
+    },
+    {
+        "név": "Tequila",
+        "fajta": "Ciobănesc românesc mioritic",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2017.07.28"
+    },
+    {
+        "név": "Tiffany",
+        "fajta": "Haldenstøver",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.03.21"
+    },
+    {
+        "név": "Tiffany",
+        "fajta": "Lietuvių skalikas",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.06.19"
+    },
+    {
+        "név": "Tiffany",
+        "fajta": "Lietuvių skalikas",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.10.01"
+    },
+    {
+        "név": "Tigi",
+        "fajta": "Hovawart",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.07.13"
+    },
+    {
+        "név": "Tigi",
+        "fajta": "Mudi",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2018.01.13"
+    },
+    {
+        "név": "Tigi",
+        "fajta": "Norrbottenspets",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.04.16"
+    },
+    {
+        "név": "Tigi",
+        "fajta": "Dogue de Bordeaux",
+        "életkor": "12",
+        "utolsó orvosi ellenőrzés": "2018.02.02"
+    },
+    {
+        "név": "Tigi",
+        "fajta": "Piccolo Levriero Italiano",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.08.26"
+    },
+    {
+        "név": "Timba",
+        "fajta": "Kai",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.04.30"
+    },
+    {
+        "név": "Timba",
+        "fajta": "Korea Jindo Dog",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.06.02"
+    },
+    {
+        "név": "Timon",
+        "fajta": "Alopekis",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.12.12"
+    },
+    {
+        "név": "Tisza",
+        "fajta": "Smålandsstövare",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.09.20"
+    },
+    {
+        "név": "Tisza",
+        "fajta": "Curly Coated Retriever",
+        "életkor": "14",
+        "utolsó orvosi ellenőrzés": "2017.10.30"
+    },
+    {
+        "név": "Titok",
+        "fajta": "Medium Caniche",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2018.02.23"
+    },
+    {
+        "név": "Titok",
+        "fajta": "Volpino Italiano",
+        "életkor": "3",
+        "utolsó orvosi ellenőrzés": "2017.10.05"
+    },
+    {
+        "név": "Titok",
+        "fajta": "Kromfohrländer",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.09.08"
+    },
+    {
+        "név": "Titok",
+        "fajta": "Grand Anglo-Français Tricolore",
+        "életkor": "5",
+        "utolsó orvosi ellenőrzés": "2018.02.16"
+    },
+    {
+        "név": "Topi",
+        "fajta": "Deutsche Bracke",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.07.28"
+    },
+    {
+        "név": "Topi",
+        "fajta": "Chart Polski",
+        "életkor": "1",
+        "utolsó orvosi ellenőrzés": "2017.04.12"
+    },
+    {
+        "név": "Topi",
+        "fajta": "Sloughi",
+        "életkor": "8",
+        "utolsó orvosi ellenőrzés": "2017.06.19"
+    },
+    {
+        "név": "Topi",
+        "fajta": "Petit Basset Griffon Vendéen",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.10.30"
+    },
+    {
+        "név": "Touluse",
+        "fajta": "Kai",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.11.08"
+    },
+    {
+        "név": "Trendy",
+        "fajta": "Briquet Griffon Vendéen",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.19"
+    },
+    {
+        "név": "Trendy",
+        "fajta": "Australian Stumpy Tail Cattle Dog",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.06.23"
+    },
+    {
+        "név": "Trendy",
+        "fajta": "Ca de Bou – Perro Dogo Mallorquin",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.07.31"
+    },
+    {
+        "név": "Trendy",
+        "fajta": "Japanese Middle Sized Dog",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2018.02.17"
+    },
+    {
+        "név": "Tuco",
+        "fajta": "Coban Köpegi",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.06"
+    },
+    {
+        "név": "Vacak",
+        "fajta": "Bouledogue français",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2018.01.23"
+    },
+    {
+        "név": "Vackor",
+        "fajta": "American Foxhound",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.04.12"
+    },
+    {
+        "név": "Vackor",
+        "fajta": "Jura Laufhund",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.12.02"
+    },
+    {
+        "név": "Vackor",
+        "fajta": "Bullmastiff",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.09"
+    },
+    {
+        "név": "Vadóc",
+        "fajta": "Saluki",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.07.01"
+    },
+    {
+        "név": "Vadóc",
+        "fajta": "Staffordshire Bullterrier",
+        "életkor": "2",
+        "utolsó orvosi ellenőrzés": "2017.08.13"
+    },
+    {
+        "név": "Vadóc",
+        "fajta": "Dalmatinac",
+        "életkor": "16",
+        "utolsó orvosi ellenőrzés": "2017.03.02"
+    },
+    {
+        "név": "Vesta",
+        "fajta": "Chesapeake Bay Retriever",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.09.15"
+    },
+    {
+        "név": "Watson",
+        "fajta": "Irish Water Spaniel",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.07.09"
+    },
+    {
+        "név": "Watson",
+        "fajta": "Riesenschnauzer",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.10.17"
+    },
+    {
+        "név": "Whisky",
+        "fajta": "Landseer",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.09.19"
+    },
+    {
+        "név": "Whisky",
+        "fajta": "Hollandse Herdershond Langhaar",
+        "életkor": "17",
+        "utolsó orvosi ellenőrzés": "2017.09.29"
+    },
+    {
+        "név": "Wifi",
+        "fajta": "Chien de berger des Pyrénées à face rase",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.06.14"
+    },
+    {
+        "név": "Zafír",
+        "fajta": "Skye Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.07"
+    },
+    {
+        "név": "Zafír",
+        "fajta": "Irish Soft Coated Wheaten Terrier",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.08.23"
+    },
+    {
+        "név": "Zafira",
+        "fajta": "Podengo Português",
+        "életkor": "10",
+        "utolsó orvosi ellenőrzés": "2017.07.10"
+    },
+    {
+        "név": "Zefír",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.11.09"
+    },
+    {
+        "név": "Zina",
+        "fajta": "Podengo Português Grande",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.17"
+    },
+    {
+        "név": "Zira",
+        "fajta": "Griffon Bleu de Gascogne",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.09.20"
+    },
+    {
+        "név": "Zira",
+        "fajta": "Gråhund",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.11.20"
+    },
+    {
+        "név": "Zira",
+        "fajta": "American Cocker Spaniel",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.05.24"
+    },
+    {
+        "név": "Ziva",
+        "fajta": "Labrador Retriever",
+        "életkor": "6",
+        "utolsó orvosi ellenőrzés": "2017.12.04"
+    },
+    {
+        "név": "Zoey",
+        "fajta": "Tibetan Terrier",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2017.08.25"
+    },
+    {
+        "név": "Zoey",
+        "fajta": "Curly Coated Retriever",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.02.21"
+    },
+    {
+        "név": "Zoli",
+        "fajta": "Braque d’Auvergne",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.08.08"
+    },
+    {
+        "név": "Zoli",
+        "fajta": "Black and Tan Coonhound",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.12.15"
+    },
+    {
+        "név": "Zolika",
+        "fajta": "Suomenpystykorva",
+        "életkor": "9",
+        "utolsó orvosi ellenőrzés": "2018.01.19"
+    },
+    {
+        "név": "Zorro",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "életkor": "11",
+        "utolsó orvosi ellenőrzés": "2017.05.06"
+    },
+    {
+        "név": "Zorro",
+        "fajta": "Labrador Retriever",
+        "életkor": "18",
+        "utolsó orvosi ellenőrzés": "2017.10.27"
+    },
+    {
+        "név": "Zoya",
+        "fajta": "Eurasian",
+        "életkor": "15",
+        "utolsó orvosi ellenőrzés": "2017.06.03"
+    },
+    {
+        "név": "Zoya",
+        "fajta": "Dogo Canario",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.11.25"
+    },
+    {
+        "név": "Zozi",
+        "fajta": "Français Blanc et Orange",
+        "életkor": "4",
+        "utolsó orvosi ellenőrzés": "2017.03.25"
+    },
+    {
+        "név": "Zozi",
+        "fajta": "Braque Belge",
+        "életkor": "13",
+        "utolsó orvosi ellenőrzés": "2017.12.29"
+    },
+    {
+        "név": "Zsebike",
+        "fajta": "Shikoku",
+        "életkor": "7",
+        "utolsó orvosi ellenőrzés": "2017.03.03"
+    }
+]

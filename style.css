@@ -1,0 +1,109 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+header img {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+.kutyak-listaja {
+  margin-bottom: 20px;
+}
+
+.kutyak-listaja h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#kutya-lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.kutya {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.kutya img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.kutya h2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
+.kutya p {
+  margin-bottom: 
+  5px;
+}
+
+.menhelyes-kutya {
+  background-color: #f7f7f7;
+}
+
+.további-informaciok {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.további-informaciok ul {
+  list-style: none;
+  padding: 0;
+}
+
+.további-informaciok li {
+  margin-bottom: 10px;
+}
+
+.további-informaciok a {
+  color: #333;
+  text-decoration: none;
+}
+
+.további-informaciok a:hover {
+  color: #666;
+}
+
+footer {
+  background-color: #eee;
+  padding: 10px;
+  text-align: center;
+}

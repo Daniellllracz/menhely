@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Kutyák menhelye</title>
+</head>
+<body>
+  <header>
+    <h1>Kutyák menhelye</h1>
+    <img src="images/mosomacika.jpg" alt="Logo">
+    <p>Segítsünk otthont találni a kutyáknak!</p>
+  </header>
+  
+  <main>
+    <input type="text" id="kereses" placeholder="Kutya neve">
+    <button id="keresesGomb">Keresés</button>
+    <div id="kutya-lista"></div>
+    <section class="kutyak-listaja">
+      <h2>Kutyák örökbefogadásra</h2>
+      <div id="kutya-lista"></div>
+    </section>
+      
+    <section class="további-informaciok">
+      <h2>További információk</h2>
+      <ul>
+        <li><a href="rolunk.html">Rólunk</a></li>
+        <li><a href="kapcsolat.html">Kapcsolat</a></li>
+        <li><a href="tamogatas.html">Támogatás</a></li>
+      </ul>
+    </section>
+  </main>
+  <button id="loadMoreButton" onclick="loadDogs()">További kutyák betöltése</button>
+
+  <footer>
+    <p>&copy; 2023 Kutyák menhelye</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
