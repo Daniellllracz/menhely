@@ -1,57 +1,37 @@
-// Definiáljuk a kutyák adatait tartalmazó JSON fájl nevét
-const jsonFile = 'kutyak.json';
+// Definiáljuk a JSON fájl elérési útvonalát
+const jsonFile = 'seagules.JSON';
 
-// Az aktuális kutyák számát nyomon követő változó
-let currentDogs = 0;
+// Függvény a kártyák létrehozására az adatok alapján
+function createCards() {
+    // Betöltjük a JSON fájlt
+    fetch(jsonFile)
+        .then(response => response.json())
+        .then(data => {
+            const destinationGrid = document.getElementById('destination-grid');
 
-// Flag a kereséshez
-let searchPerformed = false;
+            // Iterálunk az adatokon és létrehozzuk a kártyákat
+            data.forEach(destination => {
+                // Kártya létrehozása
+                const card = document.createElement('div');
+                card.classList.add('card');
 
-// Függvény a kutyák betöltésére és megjelenítésére
-function loadDogs() {
-  fetch(jsonFile)
-    .then(response => response.json())
-    .then(data => {
-      const dogsContainer = document.getElementById('kutya-lista');
+                // Cím hozzáadása
+                const title = document.createElement('h2');
+                title.textContent = destination.destination;
+                card.appendChild(title);
 
-      // Ellenőrizzük, hogy a betöltött adatokból még vannak-e kutyák hátra
-      if (currentDogs < data.length) {
-        // Legfeljebb 5 kutyát töltünk be egyszerre
-        const end = Math.min(currentDogs + 15, data.length);
-        for (let i = currentDogs; i < end; i++) {
-          const kutya = data[i];
-          const kutyaDiv = document.createElement('div');
-          kutyaDiv.classList.add('kutya');
+                // Leírás hozzáadása
+                const description = document.createElement('p');
+                description.textContent = destination.description;
+                card.appendChild(description);
 
-          // Ellenőrizzük, hogy a keresés megtörtént-e, és a kutya megfelel-e a keresési feltételnek
-          if ((!searchPerformed || document.getElementById('kereses').value.toLowerCase() === kutya.név.toLowerCase())) {
-            kutyaDiv.innerHTML = `
-              <h2>${kutya.név}</h2>
-              <p>Fajta: ${kutya.fajta}</p>
-              <p>Életkor: ${kutya.életkor} év</p>
-              <p>Utolsó orvosi ellenőrzés: ${kutya.utolsoOrvosiEllenorzes}</p>
-            `;
-            dogsContainer.appendChild(kutyaDiv);
-          }
-        }
-        // Frissítjük az aktuális kutyák számát
-        currentDogs = end;
-      } else {
-        // Ha nincs több kutya, letiltjuk a gombot
-        document.getElementById('loadMoreButton').disabled = true;
-      }
-    })
-    .catch(error => console.error('Hiba történt a kutyák betöltése közben:', error));
+                // Kártya hozzáadása a célpontokhoz
+                destinationGrid.appendChild(card);
+            });
+        })
+        .catch(error => console.error('Hiba történt a JSON fájl beolvasása közben:', error));
 }
 
-// Az oldal betöltődésekor töltjük be az első kutyákat
-window.onload = loadDogs;
+// Az oldal betöltődésekor hívjuk meg a kártyák létrehozását
+window.onload = createCards;
 
-// Keresés funkció
-document.getElementById('keresesGomb').addEventListener('click', () => {
-  // Töröljük a régi kutyaelemeket
-  document.getElementById('kutya-lista').innerHTML = '';
-  currentDogs = 0;
-  searchPerformed = true;
-  loadDogs();
-});
